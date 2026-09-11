@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+.text-primary{
+    color : #346a36;
+}
+.text-secondary{
+    color : #97cd62;
+}
+.bg-primary{
+    background: #346a36;
+}
+.bg-secondary{
+    background: #97cd62;
+}
+
+.overflowScroller::-webkit-scrollbar{
+    width: 5px;
+}
